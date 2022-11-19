@@ -486,4 +486,7 @@ while(True):
   
 
 vid.release()
-# Dest
+# Destroy all the windows
+cv2.destroyAllWindows()
+
+# %%
